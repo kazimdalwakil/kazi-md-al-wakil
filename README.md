@@ -14,7 +14,7 @@
     * HTML, CSS
 
 
-- 📍  Based in Dhaka, Bangladesh
+
 
 - 📫 How to reach me:
      - 📧**Mail:** kazimdalwakil@gmail.com
@@ -22,6 +22,8 @@
      - 🟠**Facebook:** https://www.facebook.com/kazimohammadalwakil/
      - 🟠**Twitter:** https://twitter.com/kazimdalwakil
      - 🟠**LinkedIn:** https://www.linkedin.com/in/kazi-md-al-wakil/
+
+- 📍  Based in Dhaka, Bangladesh
 <!---
 kazi-md-al-wakil/kazi-md-al-wakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
