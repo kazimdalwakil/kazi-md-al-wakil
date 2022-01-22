@@ -2,11 +2,11 @@
 - 🏚 Currently studying Computer Science & Engineering at Brac University
 - 🌱 I’m currently learning all the basics of Computer science and exploring the endless possibilites. 
 - **👀 I’m interested in: **
-      * Database Management 
-      * Algorithms 
-      * Web Development
-      * Game Development 
-      * Machine Learning
+     - * Database Management 
+     - * Algorithms 
+     - * Web Development
+     - * Game Development 
+     - * Machine Learning
 
 - **💻 I code:**
     * Java
