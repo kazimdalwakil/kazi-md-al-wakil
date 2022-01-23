@@ -17,13 +17,19 @@
 
 
 # 📫 How to reach me:
-     - 📧**Mail:** kazimdalwakil@gmail.com
-     - 🔴**Instagram:** https://www.instagram.com/kazimdalwakil_/
-     - 🔵**Facebook:** https://www.facebook.com/kazimohammadalwakil/
-     - 🟣**Twitter:** https://twitter.com/kazimdalwakil
-     - 🔵**LinkedIn:** https://www.linkedin.com/in/kazi-md-al-wakil/
+     - 📧 **Mail** : kazimdalwakil@gmail.com
+     - 🔴 [Instagram] [insta]
+     - 🔵 [Facebook] [fb]
+     - 🟣 [Twitter] [twitter]
+     - 🔵 [LinkedIn] [linkedin]
 
 ## 📍  Based in Dhaka, Bangladesh
+<!---All links--->
+[fb]: https://www.facebook.com/kazimohammadalwakil/
+[insta]: https://www.instagram.com/kazimdalwakil_/
+[twitter]: https://twitter.com/kazimdalwakil
+[linkedin]: https://www.linkedin.com/in/kazi-md-al-wakil/
+
 <!---
 kazi-md-al-wakil/kazi-md-al-wakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
