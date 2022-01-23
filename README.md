@@ -9,9 +9,9 @@
      - Machine Learning
 
 # **💻 I code:**
-    * Java
-    * Python
-    * HTML, CSS
+- Java
+- Python
+- HTML, CSS
 
 [Facebook] (https://www.facebook.com/kazimohammadalwakil/)
 🔴 [Instagram] (https://www.instagram.com/kazimdalwakil_/)
