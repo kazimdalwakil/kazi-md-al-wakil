@@ -13,22 +13,21 @@
     * Python
     * HTML, CSS
 
-
+🔵 [Facebook] (https://www.facebook.com/kazimohammadalwakil/)
+🔴 [Instagram] (https://www.instagram.com/kazimdalwakil_/)
+🟣 [Twitter] (https://twitter.com/kazimdalwakil)
+🔵 [LinkedIn] (https://www.linkedin.com/in/kazi-md-al-wakil/)
 
 
 # 📫 How to reach me:
      - 📧 **Mail** : kazimdalwakil@gmail.com
-     - 🔴 [Instagram] [insta]
-     - 🔵 [Facebook] (https://www.facebook.com/kazimohammadalwakil/)
-     - 🟣 [Twitter] [twitter]
-     - 🔵 [LinkedIn] [linkedin]
 
 ## 📍  Based in Dhaka, Bangladesh
 <!---All links--->
 [fb]: 
-[insta]: https://www.instagram.com/kazimdalwakil_/
-[twitter]: https://twitter.com/kazimdalwakil
-[linkedin]: https://www.linkedin.com/in/kazi-md-al-wakil/
+[insta]: 
+[twitter]: 
+[linkedin]: 
 
 <!---
 kazi-md-al-wakil/kazi-md-al-wakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
