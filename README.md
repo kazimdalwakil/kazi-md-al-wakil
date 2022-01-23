@@ -19,13 +19,13 @@
 # 📫 How to reach me:
      - 📧 **Mail** : kazimdalwakil@gmail.com
      - 🔴 [Instagram] [insta]
-     - 🔵 [Facebook] [fb]
+     - 🔵 [Facebook] (https://www.facebook.com/kazimohammadalwakil/)
      - 🟣 [Twitter] [twitter]
      - 🔵 [LinkedIn] [linkedin]
 
 ## 📍  Based in Dhaka, Bangladesh
 <!---All links--->
-[fb]: https://www.facebook.com/kazimohammadalwakil/
+[fb]: 
 [insta]: https://www.instagram.com/kazimdalwakil_/
 [twitter]: https://twitter.com/kazimdalwakil
 [linkedin]: https://www.linkedin.com/in/kazi-md-al-wakil/
