@@ -4,6 +4,7 @@
 ### 📍  Based in Dhaka, Bangladesh
 ### 👀 **I’m interested in:**
 
+- Research Oriented Works
 - Database Management 
 - Algorithms 
 - Web Development
@@ -23,6 +24,10 @@
 ➔ [Instagram](https://www.instagram.com/kazimdalwakil_/)  
 ➔ [Twitter](https://twitter.com/kazimdalwakil)  
 ➔ [LinkedIn](https://www.linkedin.com/in/kazi-md-al-wakil/)  
+
+###  Currently Working On:
+- A portfolio website
+- Two Research paper on EEG Signal processing 
 
 
 
